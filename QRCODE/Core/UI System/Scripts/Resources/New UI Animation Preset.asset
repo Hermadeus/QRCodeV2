@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d643597777b47ad448a1791122a9dbac, type: 3}
+  m_Name: New UI Animation Preset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  canMove: 1
+  move:
+    animMove: 0
+    direction: 0
+    duration: 0.2
+    ease: 4
+    useCurrentAsInitialPosition: 1
+    initialPosition: {x: 0, y: 0}
+  canRotate: 1
+  rotate:
+    animRotate: 0
+    duration: 0.2
+    ease: 4
+    initialRotation: {x: 0, y: 0, z: 0}
+    targetRotation: {x: 0, y: 0, z: 20}
+  canScale: 1
+  scale:
+    animScale: 0
+    duration: 0.2
+    ease: 4
+    initialScale: {x: 1, y: 1, z: 1}
+    targetScale: {x: 0, y: 0, z: 0}
+  canFade: 1
+  fade:
+    animFade: 0
+    duration: 0.2
+    ease: 4
+    initialAlpha: 1
+    targetAlpha: 0

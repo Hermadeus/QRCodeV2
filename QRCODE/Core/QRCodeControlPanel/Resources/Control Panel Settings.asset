@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fa86234acca3154da93389e7b639d9b, type: 3}
+  m_Name: Control Panel Settings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  soundSystemSettings: {fileID: 11400000, guid: c05373cb92b6dfd45a628fb1e2ea2101, type: 2}
+  photonNetworkSettings: {fileID: 11400000, guid: 829775544d5d28c4ca105b9ba73fe096, type: 2}
+  UIGeneralSettings: {fileID: 11400000, guid: e9df9730a67adea4199ea7fc23ccf32d, type: 2}
+  feedbackGeneralSettings: {fileID: 11400000, guid: 1eaf9dc7ed2de4b4a94b2cfcf9a674ad, type: 2}

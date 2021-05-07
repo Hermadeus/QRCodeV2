@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4206134ad6c573a4a9158df12d5ba35c, type: 3}
+  m_Name: Son Test Multiple
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  audioClip: {fileID: 8300000, guid: ea4568a99039d7440b7f73ecb12f6fc6, type: 3}
+  soundName: 2
+  outPut: {fileID: 0}
+  soundType: 0
+  rdmVolume: {x: 1, y: 1}
+  volume: 1
+  rdmPitch: {x: 1, y: 1}
+  pitch: 1
+  useRandomVolume: 0
+  useRandomPitch: 0
+  spatialBlend: 0
+  loop: 0
+  clips: []
+  multipleSoundType: 0

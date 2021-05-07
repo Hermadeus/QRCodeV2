@@ -1,0 +1,20 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace QRCode.Extensions
+{
+    public class GenericEventArgs<T> : EventArgs
+    {
+        public T Value { get; set; }
+    }
+    
+    public class FloatEventArgs : GenericEventArgs<float> { }
+    
+    public class IntEventArgs : GenericEventArgs<int> { }
+    
+    public class StringEventArgs : GenericEventArgs<string> { }
+    
+    public class BoolEventArgs : GenericEventArgs<bool> { }
+}
